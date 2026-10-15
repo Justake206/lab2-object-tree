@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab2ObjectTree", "Lab2ObjectTree\Lab2ObjectTree.vcxproj", "{90139158-C132-44F6-AE38-AFDBC93B7C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90139158-C132-44F6-AE38-AFDBC93B7C62}.Debug|x64.ActiveCfg = Debug|x64
+		{90139158-C132-44F6-AE38-AFDBC93B7C62}.Debug|x64.Build.0 = Debug|x64
+		{90139158-C132-44F6-AE38-AFDBC93B7C62}.Release|x64.ActiveCfg = Release|x64
+		{90139158-C132-44F6-AE38-AFDBC93B7C62}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C469F5-E4A9-48CA-9481-7F8F523A8B72}
+	EndGlobalSection
+EndGlobal
